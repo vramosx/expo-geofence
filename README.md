@@ -1,3 +1,5 @@
+## WARNING: react-native-expo-geofence is no longer maintained.
+
 # expo-geofence
 
 [react-native-expo-geofence](https://github.com/vramosx/react-native-expo-geofence) example
